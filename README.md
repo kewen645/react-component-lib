@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# React-component-library
 
-React-component-library
+Sample React-component-library
